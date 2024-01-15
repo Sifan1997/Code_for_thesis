@@ -1,21 +1,4 @@
 ISO,Name
-NOR,Norway
-CHE,Switzerland
-FRA,France
-ITA,Italy
-TUR,Türkiye
-IRL,Ireland
-ROU,Romania
-LVA,Latvia
-BRA,Brazil
-LTU,Lithuania
-SLV,El Salvador
-MDG,Madagascar
-MAR,Morocco
-MWI,Malawi
-PRY,Paraguay
-MKD,North Macedonia
-BOL,Bolivia (Plurinational State of)
 DZA,Algeria
 AGO,Angola
 AZE,Azerbaijan
@@ -25,8 +8,10 @@ AUT,Austria
 BHR,Bahrain
 BRB,Barbados
 BEL,Belgium
+BOL,Bolivia (Plurinational State of)
 BIH,Bosnia Herzegovina
 BWA,Botswana
+BRA,Brazil
 BGR,Bulgaria
 BLR,Belarus
 CAN,Canada
@@ -38,9 +23,11 @@ CZE,Czechia
 DNK,Denmark
 DOM,Dominican Rep.
 ECU,Ecuador
+SLV,El Salvador
 ETH,Ethiopia
 EST,Estonia
 FIN,Finland
+FRA,France
 PYF,French Polynesia
 GEO,Georgia
 DEU,Germany
@@ -51,27 +38,35 @@ HKG,"China, Hong Kong SAR"
 HUN,Hungary
 ISL,Iceland
 IDN,Indonesia
+IRL,Ireland
 ISR,Israel
+ITA,Italy
 CIV,Côte d'Ivoire
 JPN,Japan
 KAZ,Kazakhstan
 KOR,Rep. of Korea
 KWT,Kuwait
 KGZ,Kyrgyzstan
+LVA,Latvia
+LTU,Lithuania
 LUX,Luxembourg
+MDG,Madagascar
 MYS,Malaysia
 MLT,Malta
 MEX,Mexico
 MDA,Rep. of Moldova
 MSR,Montserrat
+MAR,Morocco
 NLD,Netherlands
 NCL,New Caledonia
 NZL,New Zealand
 NIC,Nicaragua
+NOR,Norway
 PER,Peru
 PHL,Philippines
 POL,Poland
 PRT,Portugal
+ROU,Romania
 RUS,Russian Federation
 SAU,Saudi Arabia
 SEN,Senegal
@@ -84,9 +79,12 @@ SVN,Slovenia
 ZAF,South Africa
 ESP,Spain
 SWE,Sweden
+CHE,Switzerland
 THA,Thailand
 TTO,Trinidad and Tobago
+TUR,Türkiye
 UKR,Ukraine
+MKD,North Macedonia
 GBR,United Kingdom
 TZA,United Rep. of Tanzania
 USA,USA
@@ -99,6 +97,7 @@ MUS,Mauritius
 MNE,Montenegro
 OMN,Oman
 PAK,Pakistan
+PRY,Paraguay
 VCT,Saint Vincent and the Grenadines
 SWZ,Eswatini
 UGA,Uganda
@@ -114,10 +113,11 @@ COG,Congo
 QAT,Qatar
 ZWE,Zimbabwe
 EGY,Egypt
+MWI,Malawi
 SYC,Seychelles
 LSO,Lesotho
-SDN,Sudan (...2011)
 SDN,Sudan
+SDN,Sudan (...2011)
 MAC,"China, Macao SAR"
 NER,Niger
 TUN,Tunisia
@@ -154,68 +154,64 @@ UZB,Uzbekistan
 MMR,Myanmar
 NGA,Nigeria
 TWN,"China, Taiwan"
-GNQ,Equatorial Guinea
-SPM,Saint Pierre and Miquelon
-CUB,Cuba
-SYR,Syria
-GAB,Gabon
-PRK,Dem. People's Rep. of Korea
-VEN,Venezuela
-BGD,Bangladesh
-GIB,Gibraltar
-GIN,Guinea
-IRN,Iran
-LBN,Lebanon
-SCG,Serbia and Montenegro (...2005)
-LBY,Libya
-TKL,Tokelau
-JAM,Jamaica
-TCD,Chad
-FRO,Faeroe Isds
-MYT,Mayotte (Overseas France)
-PAN,Panama
-IRQ,Iraq
-GMB,Gambia
-SOM,Somalia
-LBR,Liberia
-TKM,Turkmenistan
-ANT,Netherlands Antilles (...2010)
-MRT,Mauritania
-LCA,Saint Lucia
-VUT,Vanuatu
-SLE,Sierra Leone
-MDV,Maldives
-CPV,Cabo Verde
-DJI,Djibouti
-BHS,Bahamas
-PCN,Pitcairn
 NRU,Nauru
 PNG,Papua New Guinea
 TUV,Tuvalu
+BHS,Bahamas
+BGD,Bangladesh
+IRN,Iran
+IRQ,Iraq
+PAN,Panama
+SLE,Sierra Leone
+LBY,Libya
+LBN,Lebanon
+CUB,Cuba
 SXM,Sint Maarten
 CUW,Curaçao
+VEN,Venezuela
+FRO,Faeroe Isds
+GIB,Gibraltar
+SOM,Somalia
 HTI,Haiti
 SSD,South Sudan
+LBR,Liberia
 CYM,Cayman Isds
+GAB,Gabon
+GIN,Guinea
 BLM,Saint Barthélemy
+SPM,Saint Pierre and Miquelon
 AFG,Afghanistan
+MRT,Mauritania
 NPL,Nepal
 SMR,San Marino
+TKM,Turkmenistan
+MDV,Maldives
 VGB,Br. Virgin Isds
+TCD,Chad
+GNQ,Equatorial Guinea
 GNB,Guinea-Bissau
+CPV,Cabo Verde
+DJI,Djibouti
+GMB,Gambia
+JAM,Jamaica
 BES,Bonaire
 SUR,Suriname
 TJK,Tajikistan
 COK,Cook Isds
+PRK,Dem. People's Rep. of Korea
 MNP,N. Mariana Isds
 STP,Sao Tome and Principe
 BTN,Bhutan
 GUM,Guam
 UMI,United States Minor Outlying Islands
 ATF,Fr. South Antarctic Terr.
+SYR,Syria
 FLK,Falkland Isds (Malvinas)
 KIR,Kiribati
 HMD,Heard Island and McDonald Islands
+VUT,Vanuatu
+PCN,Pitcairn
+TKL,Tokelau
 TCA,Turks and Caicos Isds
 TLS,Timor-Leste
 NFK,Norfolk Isds
@@ -223,7 +219,9 @@ FSM,FS Micronesia
 NIU,Niue
 ASM,American Samoa
 CCK,Cocos Isds
+MYT,Mayotte (Overseas France)
 AIA,Anguilla
+LCA,Saint Lucia
 WLF,Wallis and Futuna Isds
 ERI,Eritrea
 MHL,Marshall Isds
@@ -236,4 +234,5 @@ IOT,Br. Indian Ocean Terr.
 SGS,South Georgia and the South Sandwich Islands
 ATA,Antarctica
 ESH,Western Sahara
+ANT,Netherlands Antilles (...2010)
 BVT,Bouvet Island
